@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989159939731",
+    "project_id": "histoury-12345",
+    "storage_bucket": "histoury-12345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989159939731:android:6724fec798ccf84d62b766",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2oml0t-gZNAseC9bkNE19HV4iPu7ges"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

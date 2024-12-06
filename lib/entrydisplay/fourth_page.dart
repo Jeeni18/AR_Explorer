@@ -136,7 +136,7 @@ class FourthPage extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.symmetric(horizontal: 16.0),
               child: Text(
-                'Explore new destinations',
+                'Reach the unknown spot',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 20,

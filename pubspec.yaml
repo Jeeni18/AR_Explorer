@@ -42,11 +42,18 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  galli_map: ^1.2.7
   animated_text_kit: ^4.2.2
   flutter_staggered_animations: ^1.1.1
-  lottie: ^3.1.3
+  lottie: 3.0.0
   carousel_slider: ^5.0.0
-#  galli_map: ^1.2.7
+  firebase_core: ^2.16.0  # Required for Firebase integration
+#  firebase_analytics: ^10.0.7  # Optional: Firebase Analytics
+#  firebase_auth: ^5.7.0       # Optional: Firebase Authentication
+#  firebase_storage: ^11.1.0   # Optional: Firebase Storage
+#  cloud_firestore: ^5.5.0     # Optional: Firestore for database
+
+  
 #  http: ^0.13.5
 
 #  flutter_compass: ^0.7.0  # Use the latest stable version
@@ -57,6 +64,7 @@ dev_dependencies:
   camera: ^0.10.0
   # cupertino_icons: ^1.0.2
   # video_player: ^2.5.0 # Use the latest version
+
 
 #    flutter_map: ^5.0.0
 #    latlong2: ^0.9.0
@@ -85,7 +93,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/image/
-    - assets/videos/
+    
 
     
   #   - images/a_dot_ham.jpeg
