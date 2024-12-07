@@ -145,8 +145,8 @@ class Thirdpage extends StatelessWidget {
               child: Center(
                 child: Image.asset(
                   'assets/image/3rdpage.png',
-                  width: 150,
-                  height: 150,
+                  width: 400,
+                  height: 400,
                 ),
               ),
             ),
@@ -157,7 +157,7 @@ class Thirdpage extends StatelessWidget {
                 'Your virtual tour guide',
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 30,
                   fontWeight: FontWeight.bold,
                 ),
               ),

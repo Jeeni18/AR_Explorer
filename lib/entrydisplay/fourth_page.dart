@@ -127,8 +127,8 @@ class FourthPage extends StatelessWidget {
               child: Center(
                 child: Image.asset(
                   'assets/image/fourthpage.png',
-                  width: 150,
-                  height: 150,
+                  width: 400,
+                  height: 400,
                 ),
               ),
             ),
@@ -139,7 +139,7 @@ class FourthPage extends StatelessWidget {
                 'Reach the unknown spot',
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 30,
                   fontWeight: FontWeight.bold,
                 ),
               ),
