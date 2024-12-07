@@ -15,7 +15,7 @@ class _LoginPageState extends State<LoginPage> {
 
   void _handleLogin() {
     // Validate email and password
-    if (_emailController.text == '' && _passwordController.text == '') {
+    if (_emailController.text == 'abc@abc.com' && _passwordController.text == 'abc') {
       // Navigate to the 7th page
       Navigator.push(
         context,

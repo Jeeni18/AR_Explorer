@@ -670,6 +670,8 @@ class HomeContent extends StatelessWidget {
   //           ),
   //         ),
   //       ),
+  //nabigreko wala
+
   Widget _buildUpcomingEventsSection() {
   return Column(
     crossAxisAlignment: CrossAxisAlignment.start,

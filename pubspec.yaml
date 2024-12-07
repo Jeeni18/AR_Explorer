@@ -48,7 +48,8 @@ dependencies:
   lottie: 3.0.0
   carousel_slider: ^5.0.0
   firebase_core: ^2.16.0  # Required for Firebase integration
-#  firebase_analytics: ^10.0.7  # Optional: Firebase Analytics
+  audioplayers: ^6.1.0
+  #  firebase_analytics: ^10.0.7  # Optional: Firebase Analytics
 #  firebase_auth: ^5.7.0       # Optional: Firebase Authentication
 #  firebase_storage: ^11.1.0   # Optional: Firebase Storage
 #  cloud_firestore: ^5.5.0     # Optional: Firestore for database
@@ -93,6 +94,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/image/
+    - assets/Nyatapola.wav
     
 
     
